@@ -2,7 +2,7 @@
 
 [![Live Website](https://img.shields.io/badge/Live%20Site-kgaugelo.vercel.app-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://kgaugelo.vercel.app/)
 
-Welcome to my GitHub Profile! This ReadMe showcases my technical skills, personal background, and software projects.# 👋 Hi, I'm Kgaugelo Tladi
+Welcome to my GitHub Profile! This ReadMe showcases my technical skills, personal background, and software projects.# 👋 Hi, I'm Kgaugelo Tladi,
 A passionate software developer from South Africa who loves building clean, user-friendly web apps.
 
 ---
