@@ -1,4 +1,4 @@
-# 👨‍💻 Kgaugelo.dev – Personal Developer Portfolio
+# 👨‍💻 Kgaugelo.dev – My Personal Portfolio
 
 [![Live Website](https://img.shields.io/badge/Live%20Site-kgaugelo.vercel.app-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://kgaugelo.vercel.app/)
 
