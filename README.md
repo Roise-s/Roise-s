@@ -31,7 +31,7 @@ _Built with React, TypeScript, TailwindCSS, Vite._
 ---
 
 ### 📫 Contact Me
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/kgaugelo-tladi-1060262b9)
+- LinkedIn: [my-linkedin](https://www.linkedin.com/in/kgaugelo-tladi-1060262b9)
 - Email: milkeyroise@email.com
 - Website: [kgaugelo.vercel.app](https://kgaugelo.vercel.app)
 
