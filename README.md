@@ -26,7 +26,7 @@ _Built with React, TypeScript, TailwindCSS, Vite._
 
 ---
 
-![Kgaugelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roise-s&show_icons=true&theme=radical)
+![Kgaugelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roise-s&show_icons=true&theme=radical)
 
 ---
 
