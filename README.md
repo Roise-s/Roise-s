@@ -26,10 +26,6 @@ _Built with React, TypeScript, TailwindCSS, Vite._
 
 ---
 
-![Kgaugelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roise-s&show_icons=true&theme=radical)
-
----
-
 ### 📫 Contact Me
 - LinkedIn: [my-linkedin](https://www.linkedin.com/in/kgaugelo-tladi-1060262b9)
 - Email: milkeyroise@email.com
