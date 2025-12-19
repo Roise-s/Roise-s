@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on<br>building and improving websites for clients, mainly hotels and BnBs. I’m also polishing my portfolio and creating personal projects that showcase my front-end and full-stack skills.<br><br>I'm looking to collaborate on<br>web development projects, especially those involving React, Next.js, or Node.js. I enjoy working with other developers to create clean, functional, and user-focused websites.<br><br>I'm looking for help with<br>growing my freelancing presence and finding ways to attract more clients through my portfolio and online platforms.<br><br>I'm currently learning<br>more about smooth user interface transitions and animations using tools like Framer Motion, as well as improving my backend logic with Node.js and MongoDB.<br><br>Ask me about<br>building modern, responsive websites using React, Next.js, TailwindCSS, and TypeScript — or about how to make websites look good and perform well at the same time.<br><br>Fun fact<br>I’m a student at Central University of Technology, but I also work on real-world projects — like building a site for South African singer Zee Nxumalo — which keeps things both challenging and exciting.
+I’m a student at Central University of Technology.
 
 
 ## 🌐 Socials:
